@@ -1,0 +1,8 @@
+pillow
+# El Hareketi Mouse Kontrolü — Bağımlılıklar
+# Kurulum: pip install -r requirements.txt
+
+mediapipe>=0.10.0      # El landmark tespiti (Google)
+opencv-python>=4.8.0   # Kamera ve görüntü işleme
+pyautogui>=0.9.54      # Mouse/klavye kontrolü
+numpy>=1.24.0          # Sayısal işlemler
